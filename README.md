@@ -16,6 +16,7 @@ and
 @software{Panchal_Ham_v_s_Spam,
 author = {Panchal, Deven},
 title = {{Ham v/s Spam Models and Pipelines}},
+url = {https://github.com/DevenPanchal/ham-spam},
 version = {1.0.0}
 }
 ```
@@ -26,5 +27,5 @@ Panchal, D. (2022b). Creating powerful AI pipelines by stitching together hetero
 ```
 and
 ```
-Panchal, D. Ham v/s Spam Models and Pipelines (Version 1.0.0) [Computer software]
+Panchal, D. Ham v/s Spam Models and Pipelines (Version 1.0.0) [Computer software]. https://github.com/DevenPanchal/ham-spam
 ```
