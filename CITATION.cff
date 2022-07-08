@@ -5,4 +5,6 @@ authors:
     given-names: Deven
     orcid: https://orcid.org/0000-0001-6431-6328
 title: "Ham v/s Spam Models and Pipelines"
+url: "https://github.com/DevenPanchal/ham-spam"
 version: 1.0.0
+
