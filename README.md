@@ -7,7 +7,7 @@ If you refer to these ML models and pipelines, please the below.
 ```
 @unpublished{p4,
   author = "Deven Panchal",
-  title  = "MLOps: Creating powerful AI pipelines by stitching together heterogeneous Machine Learning models using Acumos Design Studio",
+  title  = "MLOps: Creating powerful AI pipelines by stitching together heterogeneous Machine Learning models",
   year   = 2022
 }
 ```
@@ -23,7 +23,7 @@ version = {1.0.0}
 
 ### APA:
 ```
-Panchal, D. (2022b). MLOps: Creating powerful AI pipelines by stitching together heterogeneous Machine Learning models using Acumos Design Studio. Unpublished manuscript.
+Panchal, D. (2022b). MLOps: Creating powerful AI pipelines by stitching together heterogeneous Machine Learning models. Unpublished manuscript.
 ```
 and
 ```
