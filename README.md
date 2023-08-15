@@ -6,7 +6,7 @@ If you refer to these ML models and pipelines, please the below.
 ### Bibtex:
 ```
 @unpublished{p4,
-  author = "Deven Panchal",
+  author = "Deven Panchal and Isilay Baran and Dan Musgrove and David Lu",
   title  = "MLOps: Creating powerful AI pipelines by stitching together heterogeneous Machine Learning models",
   year   = 2023
 }
@@ -23,7 +23,7 @@ version = {1.0.0}
 
 ### APA:
 ```
-Panchal, D. (2023b). MLOps: Creating powerful AI pipelines by stitching together heterogeneous Machine Learning models. Unpublished manuscript.
+Panchal, D., Baran, I., Musgrove, D., & Lu, D. (2023d). MLOps: Creating powerful AI pipelines by stitching together heterogeneous Machine Learning models. Unpublished manuscript.
 ```
 and
 ```
