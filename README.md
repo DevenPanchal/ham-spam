@@ -23,7 +23,7 @@ version = {1.0.0}
 
 ### APA:
 ```
-Panchal, D., Baran, I., Musgrove, D., & Lu, D. (2023d). MLOps: Creating powerful AI pipelines by stitching together heterogeneous Machine Learning models. Unpublished manuscript.
+Panchal, D., Baran, I., Musgrove, D., & Lu, D. (2023). MLOps: Creating powerful AI pipelines by stitching together heterogeneous Machine Learning models. Unpublished manuscript.
 ```
 and
 ```
