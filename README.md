@@ -1,5 +1,5 @@
 # Ham v/s Spam Models and Pipelines
-
+[![DOI](https://zenodo.org/badge/511913322.svg)](https://zenodo.org/doi/10.5281/zenodo.13836092)
 
 If you refer to these ML models and pipelines, please the below.
 
